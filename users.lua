@@ -1,6 +1,6 @@
 local users = {
   ["1455717027"] = {
-    Status = "Confidant",
-    Name = "JoJo",
+    Status = "Confidant2",
+    Name = "Marleen",
   }
 }
